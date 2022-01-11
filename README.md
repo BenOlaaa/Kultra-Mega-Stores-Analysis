@@ -4,14 +4,14 @@ I looked into the transactions from 2009 to 2012 using the company's customers d
 **Analysis mainly used to**
 
 1. Prouct Category with the highest sales
-2. Top 3 and Bottm 3 Regions with Regards to sales
+2. Top 3 and Bottom 3 Regions with Regards to sales
 3. Total sales of product-category-1 in Location-1
 4. Analysis to increase Revenue from bottom 10 customers
 5. Most Incurred shiping Method
-6. Analysed the most valuable customer and what they purchased
+6. Analyses for the most valuable customer and what they purchased
 7. Delivery cost analysis
-8. Highest sales 
-9. Most number of order in 2009 - 2012
+8. Highest sales analysis
+9. Most number of order from 2009 - 2012
 10. Most profitable consumer customer
 
 ![1](https://user-images.githubusercontent.com/53540261/149008363-9ccba0f6-6d2f-4e7d-bb20-259337131e87.png)
